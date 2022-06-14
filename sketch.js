@@ -25,9 +25,9 @@ function setup() {
 
     text("This is big head shirmp", windowWidth/2, windowHeight/2);
 
-    let page2 = createA('https://yyan168.github.io/_pageTwo/index.html', 'Go to page 2');
+    let page2 = createA('https://yyan168.github.io/workshop3/_pageTwo/index.html', 'Go to page 2');
     page2.position(100, 300);
-    let page3 = createA('https://yyan168.github.io/_pageThree/index.html', 'Go to page 3');
+    let page3 = createA('https://yyan168.github.io/workshop3/_pageThree/index.html', 'Go to page 3');
     page3.position(100, 400);
 
 
